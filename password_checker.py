@@ -21,6 +21,6 @@ def check_password_strength(password):
 
 
 # ---- Program yahan se start hota hai ----
-user_password = input("Apna password enter karein: ")
+user_password = input("Check your password: ")
 result = check_password_strength(user_password)
 print("Password Strength:", result)
