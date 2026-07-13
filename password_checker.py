@@ -12,8 +12,10 @@ def check_password_strength(password):
     elif score == 2:
         return "Medium "
     else:
-        return "Weak "
-    
-user_password = input("Enter your password: ")
+        return "Weak ❌"
+
+
+# ---- Program yahan se start hota hai ----
+user_password = input("Check your password: ")
 result = check_password_strength(user_password)
 print("Password Strength:", result)
