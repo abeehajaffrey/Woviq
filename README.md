@@ -26,3 +26,25 @@ python password_checker.py
 
 6. Author
 Abeeha Jaffrey
+
+PROJECT 2:
+ Caesar Cipher (Encryption & Decryption)
+
+1.Description:
+This is a Python program that encrypts and decrypts a message using the Caesar Cipher technique. Each letter is shifted by a fixed number of positions in the alphabet based on a key entered by the user.
+
+2.Features:
+- Encrypts user-entered text using a shift key
+- Decrypts the encrypted text back to the original message
+- Handles uppercase and lowercase letters separately
+- Leaves spaces, numbers, and symbols unchanged
+
+3.How to Run:
+```bash
+python caesar_cipher.py
+```
+
+4.Technologies Used:
+- Python
+  Author
+  Abeeha Jaffrey
