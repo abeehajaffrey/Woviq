@@ -8,14 +8,12 @@ def check_password_strength(password):
     score = sum([has_digit, has_upper, has_symbol])
 
     if score == 3:
-        return "Strong "
+        return "Strong"
     elif score == 2:
-        return "Medium "
+        return "Medium"
     else:
-        return "Weak ❌"
+        return "Weak"
 
-
-# ---- Program yahan se start hota hai ----
 user_password = input("Check your password: ")
 result = check_password_strength(user_password)
 print("Password Strength:", result)
