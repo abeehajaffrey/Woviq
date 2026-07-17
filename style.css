@@ -1048,6 +1048,10 @@ footer{
 
 }
 
+.menu-toggle{
+    display:none;
+}
+
 @media(max-width:768px){
 
  .nav{
@@ -1076,6 +1080,15 @@ footer{
 
 .menu-toggle{
     display:block;
+    background:none;
+    border:none;
+    color:#fff;
+    font-size:32px;
+    cursor:pointer;
+    position:absolute;
+    right:20px;
+    top:28px;
+    z-index:1000;
 }
 
 .nav-btn{
@@ -1173,14 +1186,7 @@ footer{
     background:#004182;
     transform:translateY(-2px);
 }
-.menu-toggle{
-    display:none;
-    font-size:30px;
-    color:white;
-    background:none;
-    border:none;
-    cursor:pointer;
-}
+
 .trusted
 {
     padding:60px 0;
