@@ -1,0 +1,26 @@
+WOVIQ — WEBSITE REBUILD
+
+1. Extract this ZIP.
+2. Back up the current GitHub repository.
+3. Copy ALL files and folders inside WOVIQ-Website into the repository root,
+   replacing matching files. Keep the services/, images/, about/, contact/,
+   privacy/ and .well-known/ folder structure. Include .nojekyll.
+4. Commit the changes to the branch configured for GitHub Pages.
+5. In GitHub > Settings > Pages, keep the custom domain woviqai.com and
+   enable Enforce HTTPS when available.
+6. Wait for the Pages deployment to finish, then refresh the live website.
+
+Upload the full package together. Replacing only index.html or script.js
+will leave missing styles, images and pages.
+
+There is no npm install and no build step.
+
+LOCAL PREVIEW
+Open a terminal in the extracted WOVIQ-Website folder and run:
+  python3 -m http.server 8000
+Then open http://localhost:8000/ in a browser.
+Opening index.html directly from a folder is not a complete preview because
+the site uses root-relative URLs, like the custom-domain production site.
+
+This package has not been pushed or deployed by the assistant.
+See README.md for search setup and QA-REPORT.md for actual checks and limits.

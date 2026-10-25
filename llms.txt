@@ -1,0 +1,26 @@
+# Woviq
+
+> Woviq is a digital solutions company based in Lahore, Pakistan. Websites. Software. AI.
+
+We build digital experiences and intelligent business systems that help businesses attract customers, simplify operations and grow.
+
+## Services
+
+- [Business websites](https://woviqai.com/services/business-websites/): Websites
+- [Ecommerce & online ordering](https://woviqai.com/services/ecommerce-online-ordering/): Commerce
+- [Custom web applications](https://woviqai.com/services/web-applications/): Software
+- [Business platforms](https://woviqai.com/services/business-platforms/): Software
+- [Dashboards & analytics](https://woviqai.com/services/dashboards-analytics/): Software
+- [POS systems](https://woviqai.com/services/pos-systems/): Software
+- [WhatsApp & web chatbots](https://woviqai.com/services/ai-chatbots/): AI & Automation
+- [Business automation](https://woviqai.com/services/business-automation/): AI & Automation
+
+## Company
+
+- [About Woviq](https://woviqai.com/about/)
+- [Discuss your project](https://woviqai.com/contact/)
+- [Privacy](https://woviqai.com/privacy/)
+
+Contact: hello@woviqai.com; WhatsApp +923015219002.
+
+Examples on the homepage are concept demos, not client case studies. No search rankings, AI inclusion, sales or perfect AI responses are guaranteed.
