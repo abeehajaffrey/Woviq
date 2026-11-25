@@ -58,3 +58,21 @@ Production Lighthouse, field Core Web Vitals, assistive-technology testing, comp
 - Any approved real client case studies; none were invented.
 
 No messages were sent, no files were deleted from the existing repository and no production deployment was performed.
+
+
+## Leadership update — 25 November 2026
+
+- Added Warisha Khan as the first leadership card, immediately to the left of Abdullah Khan on desktop.
+- Listed her role as Co-Founder · Chief AI Automation Strategist & Business Development Officer and added a concise profile based on the supplied LinkedIn content.
+- Added a direct LinkedIn profile link with safe external-link attributes.
+- Added her Person entity to About-page JSON-LD with `sameAs`; refreshed the matching CSP SHA-256 allowance.
+- Preserved the existing Abdullah and Kanwar profiles and images. Warisha's card uses a branded initials placeholder because no approved headshot was included in the supplied files.
+- Adjusted the leadership grid to three columns on desktop, two on tablet and one on narrow mobile screens.
+- Rechecked all local HTML `href`/`src` targets and duplicate IDs: zero issues. Rechecked JSON-LD parsing and CSP hash: passed. `node --check script.js`: passed.
+- No production deployment or live-site changes were performed.
+
+
+## Leadership follow-up update
+- Added Abdullah Khan LinkedIn profile link and `sameAs` structured-data property.
+- Kept Abdullah titled Founder and raised his desktop leadership card by 16px; tablet/mobile reset to normal flow.
+- Removed Business Development from Kanwar Ahmad Iqbal title; now Co-Founder · Head of Finance.

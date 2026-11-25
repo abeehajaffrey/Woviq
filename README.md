@@ -7,7 +7,7 @@ A dependency-free, static website for https://woviqai.com. HTML, CSS and vanilla
 - Dark navy design with cyan, blue and violet branding; responsive layouts and reduced-motion support.
 - Interactive capability tabs with keyboard navigation; clickable hero service nodes; a scripted chatbot concept.
 - Eight separate service pages with distinct content, practical scope limits, four FAQs each and related links.
-- Homepage, About, Contact, Privacy and branded 404. Both founder portraits are included as optimised WebP assets.
+- Homepage, About, Contact, Privacy and branded 404. The About page presents Warisha Khan, Abdullah Khan and Kanwar Ahmad Iqbal; Abdullah and Kanwar have optimised WebP portraits, while Warisha currently has a branded initials placeholder pending an approved headshot.
 - Enquiry builder validates required fields, previews a message and opens the correct international WhatsApp URL. Editing the form invalidates an old draft. It does not claim a message was submitted.
 - Unique metadata, canonical URLs, social cards, favicon set, manifest, sitemap, robots.txt, llms.txt and security.txt.
 - Organization and WebSite schema; Person schema on About; Service and visible BreadcrumbList schema on service pages. No fabricated address, reviews, performance statistics, awards or affiliations.
